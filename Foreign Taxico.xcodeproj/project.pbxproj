@@ -14,6 +14,17 @@
 		5E11F2B11D348BE400A4C3DA /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5E11F2AF1D348BE400A4C3DA /* LaunchScreen.storyboard */; };
 		5E11F2BC1D348BE400A4C3DA /* Foreign_TaxicoTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E11F2BB1D348BE400A4C3DA /* Foreign_TaxicoTests.swift */; };
 		5E11F2C71D348BE400A4C3DA /* Foreign_TaxicoUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E11F2C61D348BE400A4C3DA /* Foreign_TaxicoUITests.swift */; };
+		5E11F2D51D34A8D100A4C3DA /* search.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 5E11F2D41D34A8D100A4C3DA /* search.jpg */; };
+		5E93A52A1D36B3C70091D539 /* Screen Shot 2016-07-13 at 9.52.06 AM.png in Resources */ = {isa = PBXBuildFile; fileRef = 5E93A5291D36B3C70091D539 /* Screen Shot 2016-07-13 at 9.52.06 AM.png */; };
+		5E93A52B1D36B3C70091D539 /* Screen Shot 2016-07-13 at 9.52.06 AM.png in Resources */ = {isa = PBXBuildFile; fileRef = 5E93A5291D36B3C70091D539 /* Screen Shot 2016-07-13 at 9.52.06 AM.png */; };
+		5E93A52D1D36B3D70091D539 /* Screen Shot 2016-07-13 at 9.52.06 AM.png in Resources */ = {isa = PBXBuildFile; fileRef = 5E93A52C1D36B3D70091D539 /* Screen Shot 2016-07-13 at 9.52.06 AM.png */; };
+		5E93A52E1D36B3D70091D539 /* Screen Shot 2016-07-13 at 9.52.06 AM.png in Resources */ = {isa = PBXBuildFile; fileRef = 5E93A52C1D36B3D70091D539 /* Screen Shot 2016-07-13 at 9.52.06 AM.png */; };
+		5E93A5301D36B3E50091D539 /* Screen Shot 2016-07-13 at 9.52.06 AM.png in Resources */ = {isa = PBXBuildFile; fileRef = 5E93A52F1D36B3E50091D539 /* Screen Shot 2016-07-13 at 9.52.06 AM.png */; };
+		5E93A5311D36B3E50091D539 /* Screen Shot 2016-07-13 at 9.52.06 AM.png in Resources */ = {isa = PBXBuildFile; fileRef = 5E93A52F1D36B3E50091D539 /* Screen Shot 2016-07-13 at 9.52.06 AM.png */; };
+		5E93A5341D380A770091D539 /* BayScript.ttf.png in Resources */ = {isa = PBXBuildFile; fileRef = 5E93A5331D380A770091D539 /* BayScript.ttf.png */; };
+		5E93A5361D380AD00091D539 /* Screen Shot 2016-07-12 at 4.10.35 PM.png in Resources */ = {isa = PBXBuildFile; fileRef = 5E93A5351D380AD00091D539 /* Screen Shot 2016-07-12 at 4.10.35 PM.png */; };
+		5E93A5381D380AF90091D539 /* Screen Shot 2016-07-12 at 4.10.35 PM.png in Resources */ = {isa = PBXBuildFile; fileRef = 5E93A5371D380AF90091D539 /* Screen Shot 2016-07-12 at 4.10.35 PM.png */; };
+		5E93A53A1D380B980091D539 /* Lyft-Adds-Google-Waze-001.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 5E93A5391D380B980091D539 /* Lyft-Adds-Google-Waze-001.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +58,14 @@
 		5E11F2C21D348BE400A4C3DA /* Foreign TaxicoUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Foreign TaxicoUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		5E11F2C61D348BE400A4C3DA /* Foreign_TaxicoUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Foreign_TaxicoUITests.swift; sourceTree = "<group>"; };
 		5E11F2C81D348BE400A4C3DA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		5E11F2D41D34A8D100A4C3DA /* search.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = search.jpg; path = ../../search.jpg; sourceTree = "<group>"; };
+		5E93A5291D36B3C70091D539 /* Screen Shot 2016-07-13 at 9.52.06 AM.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Screen Shot 2016-07-13 at 9.52.06 AM.png"; path = "../../Screen Shot 2016-07-13 at 9.52.06 AM.png"; sourceTree = "<group>"; };
+		5E93A52C1D36B3D70091D539 /* Screen Shot 2016-07-13 at 9.52.06 AM.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Screen Shot 2016-07-13 at 9.52.06 AM.png"; path = "../../Screen Shot 2016-07-13 at 9.52.06 AM.png"; sourceTree = "<group>"; };
+		5E93A52F1D36B3E50091D539 /* Screen Shot 2016-07-13 at 9.52.06 AM.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Screen Shot 2016-07-13 at 9.52.06 AM.png"; path = "../../Screen Shot 2016-07-13 at 9.52.06 AM.png"; sourceTree = "<group>"; };
+		5E93A5331D380A770091D539 /* BayScript.ttf.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = BayScript.ttf.png; path = ../../../Downloads/BayScript.ttf.png; sourceTree = "<group>"; };
+		5E93A5351D380AD00091D539 /* Screen Shot 2016-07-12 at 4.10.35 PM.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Screen Shot 2016-07-12 at 4.10.35 PM.png"; path = "../../../Downloads/Screen Shot 2016-07-12 at 4.10.35 PM.png"; sourceTree = "<group>"; };
+		5E93A5371D380AF90091D539 /* Screen Shot 2016-07-12 at 4.10.35 PM.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Screen Shot 2016-07-12 at 4.10.35 PM.png"; path = "../../../Downloads/Screen Shot 2016-07-12 at 4.10.35 PM.png"; sourceTree = "<group>"; };
+		5E93A5391D380B980091D539 /* Lyft-Adds-Google-Waze-001.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "Lyft-Adds-Google-Waze-001.jpg"; path = "../../../Downloads/Lyft-Adds-Google-Waze-001.jpg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -98,10 +117,15 @@
 			isa = PBXGroup;
 			children = (
 				5E11F2A61D348BE400A4C3DA /* AppDelegate.swift */,
+				5E11F2D41D34A8D100A4C3DA /* search.jpg */,
 				5E11F2A81D348BE400A4C3DA /* ViewController.swift */,
 				5E11F2AA1D348BE400A4C3DA /* Main.storyboard */,
+				5E93A52C1D36B3D70091D539 /* Screen Shot 2016-07-13 at 9.52.06 AM.png */,
+				5E93A52F1D36B3E50091D539 /* Screen Shot 2016-07-13 at 9.52.06 AM.png */,
 				5E11F2AD1D348BE400A4C3DA /* Assets.xcassets */,
+				5E93A5291D36B3C70091D539 /* Screen Shot 2016-07-13 at 9.52.06 AM.png */,
 				5E11F2AF1D348BE400A4C3DA /* LaunchScreen.storyboard */,
+				5E93A5331D380A770091D539 /* BayScript.ttf.png */,
 				5E11F2B21D348BE400A4C3DA /* Info.plist */,
 			);
 			path = "Foreign Taxico";
@@ -110,6 +134,9 @@
 		5E11F2BA1D348BE400A4C3DA /* Foreign TaxicoTests */ = {
 			isa = PBXGroup;
 			children = (
+				5E93A5391D380B980091D539 /* Lyft-Adds-Google-Waze-001.jpg */,
+				5E93A5371D380AF90091D539 /* Screen Shot 2016-07-12 at 4.10.35 PM.png */,
+				5E93A5351D380AD00091D539 /* Screen Shot 2016-07-12 at 4.10.35 PM.png */,
 				5E11F2BB1D348BE400A4C3DA /* Foreign_TaxicoTests.swift */,
 				5E11F2BD1D348BE400A4C3DA /* Info.plist */,
 			);
@@ -230,8 +257,13 @@
 			buildActionMask = 2147483647;
 			files = (
 				5E11F2B11D348BE400A4C3DA /* LaunchScreen.storyboard in Resources */,
+				5E93A5341D380A770091D539 /* BayScript.ttf.png in Resources */,
 				5E11F2AE1D348BE400A4C3DA /* Assets.xcassets in Resources */,
+				5E93A52D1D36B3D70091D539 /* Screen Shot 2016-07-13 at 9.52.06 AM.png in Resources */,
+				5E93A52A1D36B3C70091D539 /* Screen Shot 2016-07-13 at 9.52.06 AM.png in Resources */,
 				5E11F2AC1D348BE400A4C3DA /* Main.storyboard in Resources */,
+				5E11F2D51D34A8D100A4C3DA /* search.jpg in Resources */,
+				5E93A5301D36B3E50091D539 /* Screen Shot 2016-07-13 at 9.52.06 AM.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -239,6 +271,12 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5E93A5361D380AD00091D539 /* Screen Shot 2016-07-12 at 4.10.35 PM.png in Resources */,
+				5E93A5381D380AF90091D539 /* Screen Shot 2016-07-12 at 4.10.35 PM.png in Resources */,
+				5E93A53A1D380B980091D539 /* Lyft-Adds-Google-Waze-001.jpg in Resources */,
+				5E93A5311D36B3E50091D539 /* Screen Shot 2016-07-13 at 9.52.06 AM.png in Resources */,
+				5E93A52B1D36B3C70091D539 /* Screen Shot 2016-07-13 at 9.52.06 AM.png in Resources */,
+				5E93A52E1D36B3D70091D539 /* Screen Shot 2016-07-13 at 9.52.06 AM.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -482,6 +520,7 @@
 				5E11F2CD1D348BE400A4C3DA /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		5E11F2CE1D348BE400A4C3DA /* Build configuration list for PBXNativeTarget "Foreign TaxicoTests" */ = {
 			isa = XCConfigurationList;
@@ -490,6 +529,7 @@
 				5E11F2D01D348BE400A4C3DA /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		5E11F2D11D348BE400A4C3DA /* Build configuration list for PBXNativeTarget "Foreign TaxicoUITests" */ = {
 			isa = XCConfigurationList;
@@ -498,6 +538,7 @@
 				5E11F2D31D348BE400A4C3DA /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
